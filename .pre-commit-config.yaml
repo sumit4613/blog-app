@@ -14,4 +14,4 @@ repos:
   rev: master
   hooks:
   - id: python-import-sorter
-    args: ['--diff']
+    args: ['--silent-overwrite', '--diff']
