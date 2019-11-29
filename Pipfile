@@ -11,6 +11,8 @@ djangorestframework = "*"
 pre-commit = "*"
 django-rest-auth = "*"
 django-allauth = "*"
+coreapi = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.7"
